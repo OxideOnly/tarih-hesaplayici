@@ -1,1 +1,2 @@
-# tarih-hesaplayici
+# Basit bir tarih hesaplayıcıdır
+## Demo:
